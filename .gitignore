@@ -1,0 +1,4 @@
+.cenv
+.venv
+db.sqlite3
+_pycache_
